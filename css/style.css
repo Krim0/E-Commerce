@@ -1,0 +1,55 @@
+@font-face{
+    src: url(../fonts/Poppins-Regular.otf);
+    font-family:"Poppins";
+}
+.navbar-nav{
+    padding-top: 50px;
+}
+
+.nav-link{
+    font-size: 30px;
+}
+#footer{
+    margin-top: 50px;
+}
+.card-text{
+    color: tomato;
+}
+#about{
+    font-family: Poppins;
+}
+#aboutus{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#img-footer{
+    width: 20px;
+    height: 20px;
+}
+.billing{
+    margin: 100px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 100px;
+}
+.border{
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    padding: 50px;
+    font-family: Poppins;
+    font-size: 35px;
+}
+.carousel-h1{
+    margin-bottom: 300px;
+    font-size: 60px;
+}
+#sign{
+    margin: 100px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 100px;
+}
